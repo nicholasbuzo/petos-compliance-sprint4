@@ -36,7 +36,7 @@ selenium-side-runner testes/PetOS.side --base-url http://localhost:8080
 
 
 ## Link Repositório GitHub:
-[(https://github.com/nicholasbuzo/petos-compliance-sprint4/edit/main/README.md)]
+[petos-compliance-sprint4](https://github.com/nicholasbuzo/petos-compliance-sprint4/)
 
 ## Vídeo com demonstração da execução dos testes:
 [![Apresentação PetOS - Testes Automatizados com Selenium IDE - 2TDSPO](https://img.youtube.com/vi/poKlc9I0kds/maxresdefault.jpg)](https://youtu.be/poKlc9I0kds)
