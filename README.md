@@ -93,11 +93,12 @@ npm install -g selenium-side-runner
 selenium-side-runner testes/PetOS.side --base-url http://localhost:8080
 ```
 
-## Link Repositório GitHub:
-[petos-compliance-sprint4](https://github.com/nicholasbuzo/petos-compliance-sprint4/)
+## Link Repositório GitHub da aplição em Java:
+[Projeto PetOS-Java](https://github.com/gugomesx10/PetOS-Java/)
 
 ## Vídeo com demonstração da execução dos testes:
-[![Apresentação PetOS - Testes Automatizados com Selenium IDE - 2TDSPO](https://img.youtube.com/vi/poKlc9I0kds/maxresdefault.jpg)](https://youtu.be/poKlc9I0kds)
+[![Apresentação PetOS - Testes Automatizados com Selenium IDE - 2TDSPO](https://img.youtube.com/vi/dDLbELrj8WI/maxresdefault.jpg)](https://youtu.be/dDLbELrj8WI)
+
 ## 👥 Equipe
 
 **Turma:** 2TDSPO — FIAP
